@@ -1,5 +1,7 @@
 # Hi there, I'm Haseeb 👋
 
+<img width="1584" height="396" alt="Linkedin banner" src="https://github.com/user-attachments/assets/31339192-5241-4120-9479-7eaf254db7fe" />
+
 🚀 Passionate about building apps, experimenting with AI/ML, and creating solutions that make life easier.  
 💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows.  
 📚 Undergraduate majoring in **Operating Systems & Software Development**.  
