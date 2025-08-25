@@ -1,7 +1,7 @@
 # Hi there, I'm Haseeb 👋
 
 🚀 Passionate about building apps, experimenting with AI/ML, and creating solutions that make life easier.  
-💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows.  
+💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows*. 
 ---
 
 ## 🔧 Tech Stack
