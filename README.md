@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Haseeb 👋
 
-<!--
-**Haxeeb71/Haxeeb71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building apps, experimenting with AI/ML, and creating solutions that make life easier.  
+💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows.  
+📚 Undergraduate majoring in **Operating Systems & Software Development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Dart, Python, C++, SQL  
+- **Frameworks & Tools:** Flutter, Firebase, Supabase, AWS, Git/GitHub  
+- **Special Interests:** AI/ML, VFX with Blender/Unreal Engine, App Development  
+
+---
+
+## 🌟 Current Projects
+- 📱 **PricePals** – App for smarter price comparison.  
+- ⏰ **ClockG** – A Google Clock inspired app with alarms, timers, and more.  
+- 🎮 **Gaming Zone Management** – Management system app in Flutter.  
+
+---
+
+## 📈 GitHub Stats
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxeeb71&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+- 🌐 [Portfolio](#) *(coming soon)*  
+- 💼 [LinkedIn](#)  *(coming soon)*
+- 🐦 [Twitter](#)  *(coming soon)*
+
+✨ Always open to collaborating on exciting ideas!
