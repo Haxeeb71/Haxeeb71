@@ -2,8 +2,6 @@
 
 🚀 Passionate about building apps, experimenting with AI/ML, and creating solutions that make life easier.  
 💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows.  
-📚 Undergraduate majoring in **Operating Systems & Software Development**.  
-
 ---
 
 ## 🔧 Tech Stack
