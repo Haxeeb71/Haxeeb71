@@ -31,7 +31,6 @@
 
 ## 🤝 Let's Connect
 - 🌐 [Website](https://haseebxbiz.dev)  
-- 💼 [LinkedIn](#)  *(coming soon)*  
-- 🐦 [Twitter](#)  *(coming soon)*  
+- 💼 [LinkedIn](#)  www.linkedin.com/in/haseebxbiz   
 
 ✨ Always open to collaborating on exciting ideas!
