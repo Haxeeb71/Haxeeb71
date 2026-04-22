@@ -2,16 +2,18 @@
 
 <img width="1584" height="396" alt="Linkedin banner" src="https://github.com/user-attachments/assets/31339192-5241-4120-9479-7eaf254db7fe" />
 
-🚀 Passionate about building apps, experimenting with AI/ML, and creating solutions that make life easier.  
-💻 Currently working with **Flutter, Dart, and SQLite**, while also exploring **machine learning** and **VFX** workflows.  
+🚀 Passionate about building scalable systems, automating infrastructure, and creating reliable cloud-native solutions.  
+🛠️ DevOps Engineer with **3 years of experience**, with hands-on projects using **Terraform, Kubernetes, AWS, Azure, GCP, GitHub Actions, and Docker**.  
+💻 Also experienced with **Flutter, Dart, and SQLite**, with ongoing work in **AI/ML** and **VFX** workflows.  
 📚 Undergraduate majoring in **Operating Systems & Software Development**.  
 
 ---
 
 ## 🔧 Tech Stack
 - **Languages:** Dart, Python, C++, SQL  
-- **Frameworks & Tools:** Flutter, Firebase, Supabase, AWS, Git/GitHub  
-- **Special Interests:** AI/ML, VFX with Blender/Unreal Engine, App Development  
+- **DevOps & Cloud:** Terraform, Kubernetes, Docker, GitHub Actions, AWS, Azure, GCP  
+- **Frameworks & Tools:** Flutter, Firebase, Supabase, Git/GitHub  
+- **Special Interests:** DevOps, Cloud Infrastructure, CI/CD, AI/ML, VFX with Blender/Unreal Engine, App Development  
 
 ---
 
@@ -28,7 +30,7 @@
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio](#) *(coming soon)*  
+- 🌐 [Website](https://haseebxbiz.dev)  
 - 💼 [LinkedIn](#)  *(coming soon)*  
 - 🐦 [Twitter](#)  *(coming soon)*  
 
